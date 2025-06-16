@@ -1,0 +1,1001 @@
+ledger_id,date,description,amount,transaction_type
+5000,21-Jan-2025,"counter #1, tr1000",-100,DR
+5001,05-Jan-2025,"counter #1, tr1001",500,CR
+5002,02-Jan-2025,"counter #1, tr1002",100,CR
+5003,20-Jan-2025,"counter #1, tr1003,1004",250,CR
+5004,23-Jan-2025,"counter #5, tr1004",400,CR
+5005,09-Jan-2025,"counter #1, tr1005",-200,DR
+5006,05-Jan-2025,"counter #2, tr1006",300,CR
+5007,04-Jan-2025,"counter #3, tr1007,1008",-150,DR
+5008,24-Jan-2025,counter #4,500,CR
+5009,13-Jan-2025,"counter #1, tr1009,1010",-250,DR
+5010,20-Jan-2025,"counter #3, tr1010,1011",250,CR
+5011,02-Jan-2025,"counter #2, tr1011,1012",150,CR
+5012,28-Jan-2025,"counter #1, tr1012",-400,DR
+5013,27-Jan-2025,"counter #3, tr1013",-200,DR
+5014,22-Jan-2025,"counter #3, tr1014",100,CR
+5015,08-Jan-2025,"counter #2, tr1015",-400,DR
+5016,30-Jan-2025,"counter #5, tr1016,1017",-100,DR
+5017,25-Jan-2025,"counter #1, tr1017,1018",100,CR
+5018,13-Jan-2025,counter #3,100,CR
+5019,19-Jan-2025,"counter #3, tr1019",-200,DR
+5020,30-Jan-2025,"counter #4, tr1020",-200,DR
+5021,24-Jan-2025,"counter #5, tr1021,1022",-250,DR
+5022,14-Jan-2025,"counter #5, tr1022",-400,DR
+5023,05-Jan-2025,"counter #5, tr1023,1024",200,CR
+5024,28-Jan-2025,"counter #1, tr1024,1025",100,CR
+5025,14-Jan-2025,"counter #5, tr1025",-100,DR
+5026,15-Jan-2025,"counter #5, tr1026",300,CR
+5027,04-Jan-2025,"counter #5, tr1027",-300,DR
+5028,14-Jan-2025,counter #2,400,CR
+5029,29-Jan-2025,"counter #3, tr1029",500,CR
+5030,04-Jan-2025,"counter #3, tr1030",500,CR
+5031,25-Jan-2025,"counter #2, tr1031",500,CR
+5032,16-Jan-2025,"counter #1, tr1032,1033",-50,DR
+5033,27-Jan-2025,"counter #3, tr1033",200,CR
+5034,19-Jan-2025,"counter #1, tr1034,1035",-50,DR
+5035,25-Jan-2025,"counter #5, tr1035",200,CR
+5036,31-Jan-2025,"counter #5, tr1036",-200,DR
+5037,20-Jan-2025,"counter #4, tr1037,1038",100,CR
+5038,13-Jan-2025,"counter #3, tr1038",-400,DR
+5039,08-Jan-2025,"counter #1, tr1039",300,CR
+5040,08-Jan-2025,"counter #5, tr1040",200,CR
+5041,21-Jan-2025,counter #1,200,CR
+5042,28-Jan-2025,"counter #3, tr1042",100,CR
+5043,16-Jan-2025,"counter #2, tr1043,1044",250,CR
+5044,29-Jan-2025,"counter #5, tr1044",-500,DR
+5045,16-Jan-2025,"counter #4, tr1045",200,CR
+5046,14-Jan-2025,"counter #3, tr1046",-400,DR
+5047,24-Jan-2025,"counter #1, tr1047",100,CR
+5048,11-Jan-2025,"counter #1, tr1048",200,CR
+5049,15-Jan-2025,"counter #2, tr1049",400,CR
+5050,08-Jan-2025,"counter #1, tr1050",400,CR
+5051,18-Jan-2025,"counter #1, tr1051",100,CR
+5052,16-Jan-2025,counter #4,-200,DR
+5053,06-Jan-2025,"counter #4, tr1053",-100,DR
+5054,26-Jan-2025,"counter #4, tr1054",-300,DR
+5055,24-Jan-2025,"counter #5, tr1055",400,CR
+5056,07-Jan-2025,"counter #1, tr1056,1057",250,CR
+5057,02-Jan-2025,"counter #1, tr1057",-500,DR
+5058,28-Jan-2025,counter #5,200,CR
+5059,03-Jan-2025,"counter #2, tr1059",100,CR
+5060,08-Jan-2025,"counter #4, tr1060",100,CR
+5061,02-Jan-2025,"counter #5, tr1061",-100,DR
+5062,19-Jan-2025,"counter #5, tr1062",-300,DR
+5063,23-Jan-2025,"counter #3, tr1063",-200,DR
+5064,22-Jan-2025,counter #3,-400,DR
+5065,30-Jan-2025,"counter #1, tr1065",-100,DR
+5066,19-Jan-2025,"counter #1, tr1066",100,CR
+5067,05-Jan-2025,"counter #3, tr1067",100,CR
+5068,06-Jan-2025,"counter #4, tr1068",-500,DR
+5069,26-Jan-2025,counter #5,-100,DR
+5070,04-Jan-2025,"counter #2, tr1070,1071",150,CR
+5071,24-Jan-2025,"counter #5, tr1071",-200,DR
+5072,07-Jan-2025,"counter #3, tr1072",-200,DR
+5073,09-Jan-2025,"counter #1, tr1073,1074",-50,DR
+5074,02-Jan-2025,"counter #1, tr1074",300,CR
+5075,09-Jan-2025,"counter #2, tr1075",-400,DR
+5076,04-Jan-2025,"counter #1, tr1076,1077",100,CR
+5077,19-Jan-2025,"counter #5, tr1077",-200,DR
+5078,10-Jan-2025,"counter #3, tr1078",-100,DR
+5079,08-Jan-2025,counter #1,-300,DR
+5080,24-Jan-2025,counter #2,200,CR
+5081,26-Jan-2025,"counter #2, tr1081",400,CR
+5082,30-Jan-2025,"counter #3, tr1082",400,CR
+5083,26-Jan-2025,"counter #1, tr1083,1084",200,CR
+5084,08-Jan-2025,"counter #2, tr1084",-400,DR
+5085,26-Jan-2025,"counter #2, tr1085",200,CR
+5086,13-Jan-2025,counter #3,300,CR
+5087,09-Jan-2025,"counter #3, tr1087",-500,DR
+5088,27-Jan-2025,"counter #5, tr1088",300,CR
+5089,09-Jan-2025,"counter #2, tr1089",-500,DR
+5090,20-Jan-2025,"counter #4, tr1090",-300,DR
+5091,17-Jan-2025,"counter #1, tr1091",400,CR
+5092,23-Jan-2025,"counter #4, tr1092",100,CR
+5093,03-Jan-2025,"counter #3, tr1093",-500,DR
+5094,04-Jan-2025,"counter #3, tr1094",-500,DR
+5095,11-Jan-2025,"counter #4, tr1095",300,CR
+5096,22-Jan-2025,"counter #4, tr1096",-200,DR
+5097,27-Jan-2025,"counter #1, tr1097",-300,DR
+5098,26-Jan-2025,"counter #5, tr1098",-500,DR
+5099,15-Jan-2025,"counter #2, tr1099,1100",-250,DR
+5100,31-Jan-2025,"counter #2, tr1100",-100,DR
+5101,21-Jan-2025,"counter #5, tr1101,1102",150,CR
+5102,25-Jan-2025,"counter #2, tr1102,1103",150,CR
+5103,05-Jan-2025,counter #1,100,CR
+5104,20-Jan-2025,"counter #1, tr1104,1105",-200,DR
+5105,19-Jan-2025,"counter #2, tr1105",-400,DR
+5106,05-Jan-2025,"counter #1, tr1106",-100,DR
+5107,26-Jan-2025,"counter #5, tr1107",400,CR
+5108,30-Jan-2025,"counter #1, tr1108,1109",200,CR
+5109,22-Jan-2025,counter #5,-500,DR
+5110,29-Jan-2025,"counter #4, tr1110,1111",-250,DR
+5111,18-Jan-2025,"counter #4, tr1111",-200,DR
+5112,25-Jan-2025,"counter #2, tr1112",-300,DR
+5113,09-Jan-2025,"counter #4, tr1113",-100,DR
+5114,11-Jan-2025,"counter #3, tr1114",500,CR
+5115,08-Jan-2025,"counter #4, tr1115",200,CR
+5116,14-Jan-2025,"counter #3, tr1116",-500,DR
+5117,07-Jan-2025,"counter #4, tr1117,1118",200,CR
+5118,25-Jan-2025,"counter #5, tr1118",-400,DR
+5119,12-Jan-2025,"counter #3, tr1119",-400,DR
+5120,24-Jan-2025,"counter #5, tr1120",500,CR
+5121,09-Jan-2025,"counter #4, tr1121",400,CR
+5122,22-Jan-2025,counter #4,-200,DR
+5123,20-Jan-2025,"counter #5, tr1123",-100,DR
+5124,22-Jan-2025,"counter #1, tr1124",-100,DR
+5125,15-Jan-2025,"counter #2, tr1125",-100,DR
+5126,07-Jan-2025,"counter #4, tr1126,1127",-150,DR
+5127,13-Jan-2025,"counter #3, tr1127,1128",-200,DR
+5128,16-Jan-2025,counter #1,500,CR
+5129,12-Jan-2025,"counter #2, tr1129,1130",50,CR
+5130,31-Jan-2025,"counter #2, tr1130",200,CR
+5131,08-Jan-2025,"counter #2, tr1131",400,CR
+5132,07-Jan-2025,"counter #4, tr1132",-300,DR
+5133,20-Jan-2025,"counter #1, tr1133",-200,DR
+5134,01-Jan-2025,"counter #3, tr1134",-500,DR
+5135,23-Jan-2025,"counter #2, tr1135",100,CR
+5136,25-Jan-2025,"counter #3, tr1136,1137",250,CR
+5137,19-Jan-2025,"counter #1, tr1137",-300,DR
+5138,03-Jan-2025,"counter #5, tr1138,1139",150,CR
+5139,27-Jan-2025,counter #4,-100,DR
+5140,21-Jan-2025,"counter #4, tr1140",-200,DR
+5141,17-Jan-2025,"counter #3, tr1141",-500,DR
+5142,27-Jan-2025,"counter #5, tr1142,1143",-150,DR
+5143,27-Jan-2025,"counter #1, tr1143",-300,DR
+5144,15-Jan-2025,"counter #5, tr1144",-500,DR
+5145,16-Jan-2025,"counter #3, tr1145",-200,DR
+5146,26-Jan-2025,"counter #3, tr1146,1147",-150,DR
+5147,23-Jan-2025,"counter #3, tr1147",500,CR
+5148,07-Jan-2025,"counter #1, tr1148",-200,DR
+5149,25-Jan-2025,"counter #2, tr1149",-400,DR
+5150,01-Jan-2025,"counter #1, tr1150",300,CR
+5151,08-Jan-2025,"counter #3, tr1151",-500,DR
+5152,17-Jan-2025,"counter #3, tr1152",-400,DR
+5153,15-Jan-2025,"counter #3, tr1153",-300,DR
+5154,24-Jan-2025,"counter #2, tr1154,1155",150,CR
+5155,31-Jan-2025,"counter #2, tr1155,1156",100,CR
+5156,09-Jan-2025,counter #5,-500,DR
+5157,27-Jan-2025,"counter #2, tr1157",300,CR
+5158,10-Jan-2025,"counter #1, tr1158",500,CR
+5159,02-Jan-2025,"counter #5, tr1159",300,CR
+5160,25-Jan-2025,"counter #4, tr1160",100,CR
+5161,16-Jan-2025,"counter #4, tr1161",-400,DR
+5162,02-Jan-2025,"counter #3, tr1162,1163",200,CR
+5163,13-Jan-2025,"counter #4, tr1163",100,CR
+5164,26-Jan-2025,counter #5,300,CR
+5165,04-Jan-2025,"counter #5, tr1165,1166",200,CR
+5166,13-Jan-2025,"counter #4, tr1166,1167",-200,DR
+5167,14-Jan-2025,"counter #3, tr1167",500,CR
+5168,24-Jan-2025,"counter #1, tr1168",200,CR
+5169,03-Jan-2025,"counter #2, tr1169",200,CR
+5170,06-Jan-2025,"counter #1, tr1170",-400,DR
+5171,16-Jan-2025,"counter #3, tr1171",100,CR
+5172,10-Jan-2025,counter #4,100,CR
+5173,26-Jan-2025,"counter #5, tr1173",-200,DR
+5174,08-Jan-2025,"counter #2, tr1174",300,CR
+5175,06-Jan-2025,"counter #3, tr1175",-500,DR
+5176,15-Jan-2025,"counter #3, tr1176",-400,DR
+5177,16-Jan-2025,"counter #4, tr1177,1178",50,CR
+5178,24-Jan-2025,"counter #3, tr1178",-500,DR
+5179,08-Jan-2025,counter #5,500,CR
+5180,22-Jan-2025,"counter #3, tr1180,1181",250,CR
+5181,06-Jan-2025,counter #4,-500,DR
+5182,06-Jan-2025,counter #5,-400,DR
+5183,16-Jan-2025,"counter #3, tr1183",-400,DR
+5184,04-Jan-2025,"counter #2, tr1184",-300,DR
+5185,10-Jan-2025,"counter #4, tr1185",500,CR
+5186,11-Jan-2025,counter #3,300,CR
+5187,13-Jan-2025,"counter #5, tr1187",-100,DR
+5188,07-Jan-2025,"counter #5, tr1188",-300,DR
+5189,25-Jan-2025,"counter #1, tr1189",-200,DR
+5190,30-Jan-2025,"counter #3, tr1190",-400,DR
+5191,21-Jan-2025,"counter #5, tr1191",200,CR
+5192,01-Jan-2025,"counter #5, tr1192",400,CR
+5193,27-Jan-2025,"counter #1, tr1193",400,CR
+5194,05-Jan-2025,"counter #4, tr1194",-300,DR
+5195,16-Jan-2025,"counter #4, tr1195",-200,DR
+5196,13-Jan-2025,"counter #2, tr1196,1197",250,CR
+5197,09-Jan-2025,"counter #4, tr1197,1198",-150,DR
+5198,10-Jan-2025,"counter #3, tr1198,1199",-250,DR
+5199,15-Jan-2025,"counter #5, tr1199",-400,DR
+5200,25-Jan-2025,counter #5,-400,DR
+5201,28-Jan-2025,"counter #2, tr1201",-200,DR
+5202,25-Jan-2025,"counter #4, tr1202,1203",-50,DR
+5203,23-Jan-2025,"counter #4, tr1203",400,CR
+5204,02-Jan-2025,"counter #2, tr1204,1205",-250,DR
+5205,28-Jan-2025,"counter #4, tr1205",-100,DR
+5206,05-Jan-2025,"counter #4, tr1206",200,CR
+5207,09-Jan-2025,"counter #3, tr1207",-500,DR
+5208,28-Jan-2025,counter #3,-500,DR
+5209,21-Jan-2025,"counter #4, tr1209",500,CR
+5210,08-Jan-2025,"counter #3, tr1210",200,CR
+5211,04-Jan-2025,"counter #1, tr1211",400,CR
+5212,29-Jan-2025,"counter #1, tr1212,1213",-50,DR
+5213,10-Jan-2025,"counter #3, tr1213",-300,DR
+5214,17-Jan-2025,"counter #4, tr1214",500,CR
+5215,03-Jan-2025,"counter #5, tr1215",400,CR
+5216,19-Jan-2025,"counter #2, tr1216",-200,DR
+5217,15-Jan-2025,counter #3,-100,DR
+5218,22-Jan-2025,"counter #5, tr1218",200,CR
+5219,12-Jan-2025,"counter #5, tr1219",-300,DR
+5220,15-Jan-2025,"counter #3, tr1220,1221",-100,DR
+5221,04-Jan-2025,"counter #2, tr1221",-400,DR
+5222,23-Jan-2025,"counter #3, tr1222",-100,DR
+5223,19-Jan-2025,"counter #1, tr1223,1224",-250,DR
+5224,29-Jan-2025,"counter #3, tr1224",-200,DR
+5225,07-Jan-2025,"counter #5, tr1225",300,CR
+5226,29-Jan-2025,"counter #1, tr1226",-300,DR
+5227,12-Jan-2025,"counter #2, tr1227",-100,DR
+5228,14-Jan-2025,"counter #2, tr1228,1229",100,CR
+5229,29-Jan-2025,"counter #3, tr1229,1230",-250,DR
+5230,09-Jan-2025,"counter #4, tr1230,1231",-150,DR
+5231,15-Jan-2025,"counter #1, tr1231,1232",100,CR
+5232,24-Jan-2025,"counter #4, tr1232",-500,DR
+5233,13-Jan-2025,"counter #1, tr1233",300,CR
+5234,22-Jan-2025,"counter #3, tr1234,1235",-250,DR
+5235,31-Jan-2025,"counter #3, tr1235",100,CR
+5236,20-Jan-2025,"counter #5, tr1236",300,CR
+5237,21-Jan-2025,"counter #4, tr1237",-300,DR
+5238,02-Jan-2025,"counter #1, tr1238",-300,DR
+5239,08-Jan-2025,"counter #5, tr1239",-200,DR
+5240,22-Jan-2025,"counter #5, tr1240,1241",200,CR
+5241,21-Jan-2025,counter #1,-400,DR
+5242,09-Jan-2025,"counter #1, tr1242",300,CR
+5243,31-Jan-2025,counter #2,300,CR
+5244,12-Jan-2025,"counter #5, tr1244",300,CR
+5245,07-Jan-2025,"counter #1, tr1245",400,CR
+5246,21-Jan-2025,"counter #5, tr1246,1247",50,CR
+5247,08-Jan-2025,"counter #2, tr1247",500,CR
+5248,25-Jan-2025,"counter #5, tr1248,1249",100,CR
+5249,08-Jan-2025,"counter #3, tr1249",200,CR
+5250,05-Jan-2025,"counter #2, tr1250,1251",-250,DR
+5251,04-Jan-2025,"counter #1, tr1251",200,CR
+5252,26-Jan-2025,"counter #2, tr1252",-500,DR
+5253,09-Jan-2025,"counter #1, tr1253",-200,DR
+5254,24-Jan-2025,"counter #1, tr1254,1255",-200,DR
+5255,17-Jan-2025,"counter #5, tr1255",-100,DR
+5256,31-Jan-2025,"counter #5, tr1256",-100,DR
+5257,31-Jan-2025,"counter #1, tr1257,1258",-50,DR
+5258,14-Jan-2025,"counter #1, tr1258",-400,DR
+5259,03-Jan-2025,"counter #3, tr1259",500,CR
+5260,09-Jan-2025,"counter #5, tr1260",-500,DR
+5261,20-Jan-2025,"counter #5, tr1261",-300,DR
+5262,14-Jan-2025,"counter #1, tr1262",100,CR
+5263,29-Jan-2025,"counter #2, tr1263,1264",-200,DR
+5264,13-Jan-2025,"counter #4, tr1264",-100,DR
+5265,22-Jan-2025,"counter #3, tr1265",300,CR
+5266,16-Jan-2025,"counter #1, tr1266",100,CR
+5267,04-Jan-2025,"counter #3, tr1267",200,CR
+5268,18-Jan-2025,"counter #5, tr1268",300,CR
+5269,28-Jan-2025,"counter #4, tr1269",-100,DR
+5270,12-Jan-2025,"counter #1, tr1270",500,CR
+5271,16-Jan-2025,"counter #2, tr1271,1272",-50,DR
+5272,12-Jan-2025,"counter #1, tr1272,1273",150,CR
+5273,28-Jan-2025,"counter #5, tr1273",500,CR
+5274,22-Jan-2025,"counter #3, tr1274",100,CR
+5275,25-Jan-2025,"counter #3, tr1275",-300,DR
+5276,28-Jan-2025,"counter #2, tr1276",-500,DR
+5277,24-Jan-2025,"counter #1, tr1277",100,CR
+5278,15-Jan-2025,"counter #3, tr1278",-200,DR
+5279,11-Jan-2025,"counter #5, tr1279,1280",250,CR
+5280,05-Jan-2025,"counter #2, tr1280",500,CR
+5281,09-Jan-2025,"counter #4, tr1281",-400,DR
+5282,14-Jan-2025,"counter #3, tr1282",200,CR
+5283,04-Jan-2025,"counter #3, tr1283",-500,DR
+5284,10-Jan-2025,counter #1,-200,DR
+5285,02-Jan-2025,counter #1,-200,DR
+5286,25-Jan-2025,"counter #2, tr1286",-300,DR
+5287,01-Jan-2025,"counter #4, tr1287",400,CR
+5288,18-Jan-2025,"counter #2, tr1288",-500,DR
+5289,28-Jan-2025,"counter #1, tr1289",400,CR
+5290,03-Jan-2025,"counter #3, tr1290",-500,DR
+5291,23-Jan-2025,"counter #4, tr1291",300,CR
+5292,31-Jan-2025,"counter #3, tr1292,1293",-100,DR
+5293,30-Jan-2025,"counter #3, tr1293,1294",-50,DR
+5294,08-Jan-2025,"counter #4, tr1294",-500,DR
+5295,13-Jan-2025,"counter #3, tr1295",300,CR
+5296,06-Jan-2025,"counter #1, tr1296",500,CR
+5297,07-Jan-2025,"counter #3, tr1297",300,CR
+5298,05-Jan-2025,"counter #3, tr1298",200,CR
+5299,25-Jan-2025,"counter #1, tr1299",-200,DR
+5300,19-Jan-2025,"counter #5, tr1300,1301",-200,DR
+5301,21-Jan-2025,"counter #3, tr1301",-200,DR
+5302,15-Jan-2025,"counter #3, tr1302",300,CR
+5303,03-Jan-2025,"counter #3, tr1303",-400,DR
+5304,12-Jan-2025,"counter #3, tr1304",100,CR
+5305,17-Jan-2025,"counter #4, tr1305",400,CR
+5306,26-Jan-2025,"counter #5, tr1306",-200,DR
+5307,17-Jan-2025,"counter #2, tr1307",-100,DR
+5308,29-Jan-2025,"counter #3, tr1308",100,CR
+5309,23-Jan-2025,"counter #4, tr1309",400,CR
+5310,30-Jan-2025,"counter #3, tr1310,1311",-200,DR
+5311,22-Jan-2025,"counter #5, tr1311",-100,DR
+5312,04-Jan-2025,"counter #5, tr1312",-400,DR
+5313,28-Jan-2025,"counter #5, tr1313",-200,DR
+5314,22-Jan-2025,counter #2,-300,DR
+5315,23-Jan-2025,"counter #4, tr1315",200,CR
+5316,13-Jan-2025,"counter #3, tr1316",200,CR
+5317,14-Jan-2025,"counter #5, tr1317",300,CR
+5318,06-Jan-2025,"counter #2, tr1318",-300,DR
+5319,05-Jan-2025,"counter #2, tr1319,1320",-50,DR
+5320,04-Jan-2025,"counter #5, tr1320",500,CR
+5321,29-Jan-2025,"counter #5, tr1321",-200,DR
+5322,06-Jan-2025,"counter #5, tr1322",-200,DR
+5323,12-Jan-2025,"counter #2, tr1323,1324",-200,DR
+5324,26-Jan-2025,"counter #4, tr1324",200,CR
+5325,26-Jan-2025,"counter #4, tr1325",-200,DR
+5326,19-Jan-2025,"counter #4, tr1326,1327",-200,DR
+5327,17-Jan-2025,"counter #5, tr1327,1328",200,CR
+5328,26-Jan-2025,"counter #5, tr1328",-200,DR
+5329,16-Jan-2025,"counter #3, tr1329,1330",250,CR
+5330,17-Jan-2025,"counter #1, tr1330,1331",150,CR
+5331,09-Jan-2025,"counter #4, tr1331,1332",250,CR
+5332,03-Jan-2025,counter #2,-400,DR
+5333,14-Jan-2025,"counter #1, tr1333",-400,DR
+5334,03-Jan-2025,"counter #3, tr1334",200,CR
+5335,04-Jan-2025,"counter #3, tr1335",200,CR
+5336,30-Jan-2025,"counter #4, tr1336",-200,DR
+5337,01-Jan-2025,"counter #1, tr1337",-100,DR
+5338,05-Jan-2025,"counter #5, tr1338",-500,DR
+5339,10-Jan-2025,"counter #2, tr1339",300,CR
+5340,14-Jan-2025,"counter #5, tr1340",400,CR
+5341,29-Jan-2025,"counter #4, tr1341",500,CR
+5342,19-Jan-2025,"counter #2, tr1342",-200,DR
+5343,20-Jan-2025,"counter #3, tr1343",-200,DR
+5344,22-Jan-2025,"counter #1, tr1344",-500,DR
+5345,17-Jan-2025,"counter #5, tr1345",500,CR
+5346,16-Jan-2025,"counter #1, tr1346",-400,DR
+5347,01-Jan-2025,"counter #3, tr1347",-100,DR
+5348,22-Jan-2025,"counter #1, tr1348",-500,DR
+5349,12-Jan-2025,"counter #5, tr1349,1350",150,CR
+5350,22-Jan-2025,"counter #4, tr1350,1351",200,CR
+5351,03-Jan-2025,"counter #4, tr1351",-100,DR
+5352,26-Jan-2025,counter #2,-100,DR
+5353,17-Jan-2025,"counter #4, tr1353",-500,DR
+5354,25-Jan-2025,"counter #2, tr1354,1355",-150,DR
+5355,02-Jan-2025,"counter #3, tr1355,1356",150,CR
+5356,14-Jan-2025,"counter #4, tr1356",-400,DR
+5357,06-Jan-2025,counter #4,-400,DR
+5358,17-Jan-2025,"counter #3, tr1358",-100,DR
+5359,20-Jan-2025,"counter #2, tr1359",-500,DR
+5360,03-Jan-2025,"counter #3, tr1360",-300,DR
+5361,23-Jan-2025,"counter #4, tr1361",-200,DR
+5362,02-Jan-2025,"counter #3, tr1362",-500,DR
+5363,26-Jan-2025,"counter #1, tr1363",-100,DR
+5364,26-Jan-2025,"counter #2, tr1364,1365",50,CR
+5365,22-Jan-2025,"counter #4, tr1365",100,CR
+5366,25-Jan-2025,counter #3,-300,DR
+5367,02-Jan-2025,counter #5,-200,DR
+5368,12-Jan-2025,"counter #4, tr1368",100,CR
+5369,13-Jan-2025,counter #3,300,CR
+5370,01-Jan-2025,counter #2,-400,DR
+5371,04-Jan-2025,"counter #3, tr1371",-300,DR
+5372,20-Jan-2025,"counter #3, tr1372",400,CR
+5373,28-Jan-2025,"counter #1, tr1373,1374",200,CR
+5374,15-Jan-2025,"counter #1, tr1374,1375",-150,DR
+5375,18-Jan-2025,"counter #5, tr1375,1376",-150,DR
+5376,23-Jan-2025,"counter #2, tr1376",300,CR
+5377,07-Jan-2025,"counter #2, tr1377",-200,DR
+5378,18-Jan-2025,"counter #5, tr1378,1379",-150,DR
+5379,18-Jan-2025,"counter #2, tr1379",500,CR
+5380,13-Jan-2025,"counter #4, tr1380,1381",-250,DR
+5381,27-Jan-2025,counter #5,100,CR
+5382,21-Jan-2025,"counter #1, tr1382",-400,DR
+5383,12-Jan-2025,"counter #2, tr1383,1384",250,CR
+5384,05-Jan-2025,"counter #4, tr1384,1385",250,CR
+5385,17-Jan-2025,"counter #2, tr1385",300,CR
+5386,30-Jan-2025,"counter #2, tr1386,1387",-150,DR
+5387,09-Jan-2025,"counter #2, tr1387",-500,DR
+5388,10-Jan-2025,"counter #5, tr1388",500,CR
+5389,06-Jan-2025,"counter #5, tr1389",500,CR
+5390,20-Jan-2025,"counter #5, tr1390,1391",150,CR
+5391,01-Jan-2025,"counter #1, tr1391",-100,DR
+5392,25-Jan-2025,"counter #5, tr1392",400,CR
+5393,21-Jan-2025,"counter #5, tr1393",-300,DR
+5394,26-Jan-2025,"counter #4, tr1394",-300,DR
+5395,02-Jan-2025,"counter #2, tr1395",-400,DR
+5396,07-Jan-2025,"counter #3, tr1396",500,CR
+5397,23-Jan-2025,"counter #3, tr1397",-300,DR
+5398,12-Jan-2025,"counter #5, tr1398",500,CR
+5399,15-Jan-2025,"counter #1, tr1399",-300,DR
+5400,04-Jan-2025,"counter #1, tr1400,1401",-150,DR
+5401,14-Jan-2025,counter #2,-200,DR
+5402,24-Jan-2025,"counter #3, tr1402",200,CR
+5403,17-Jan-2025,"counter #4, tr1403",-400,DR
+5404,03-Jan-2025,counter #4,-500,DR
+5405,07-Jan-2025,"counter #5, tr1405",300,CR
+5406,16-Jan-2025,"counter #5, tr1406",-400,DR
+5407,28-Jan-2025,"counter #1, tr1407,1408",200,CR
+5408,24-Jan-2025,"counter #3, tr1408",-400,DR
+5409,02-Jan-2025,"counter #5, tr1409",500,CR
+5410,10-Jan-2025,"counter #1, tr1410,1411",-200,DR
+5411,09-Jan-2025,"counter #5, tr1411",500,CR
+5412,04-Jan-2025,"counter #4, tr1412",-300,DR
+5413,12-Jan-2025,"counter #2, tr1413",-200,DR
+5414,02-Jan-2025,"counter #1, tr1414,1415",-100,DR
+5415,17-Jan-2025,"counter #4, tr1415",200,CR
+5416,20-Jan-2025,counter #3,-200,DR
+5417,24-Jan-2025,"counter #3, tr1417",-500,DR
+5418,17-Jan-2025,"counter #5, tr1418",-400,DR
+5419,01-Jan-2025,counter #3,300,CR
+5420,19-Jan-2025,"counter #3, tr1420",-100,DR
+5421,21-Jan-2025,"counter #5, tr1421,1422",250,CR
+5422,19-Jan-2025,"counter #4, tr1422",-200,DR
+5423,22-Jan-2025,"counter #2, tr1423",100,CR
+5424,15-Jan-2025,"counter #3, tr1424",400,CR
+5425,07-Jan-2025,"counter #4, tr1425,1426",-250,DR
+5426,24-Jan-2025,"counter #1, tr1426",200,CR
+5427,22-Jan-2025,"counter #4, tr1427",-500,DR
+5428,06-Jan-2025,"counter #4, tr1428",-500,DR
+5429,22-Jan-2025,"counter #3, tr1429",-500,DR
+5430,08-Jan-2025,"counter #3, tr1430",-500,DR
+5431,10-Jan-2025,"counter #3, tr1431",-200,DR
+5432,12-Jan-2025,"counter #5, tr1432",-300,DR
+5433,22-Jan-2025,"counter #5, tr1433,1434",-200,DR
+5434,31-Jan-2025,"counter #2, tr1434",300,CR
+5435,23-Jan-2025,"counter #1, tr1435",-300,DR
+5436,24-Jan-2025,"counter #4, tr1436,1437",100,CR
+5437,09-Jan-2025,"counter #5, tr1437",300,CR
+5438,24-Jan-2025,"counter #5, tr1438",200,CR
+5439,29-Jan-2025,"counter #5, tr1439",200,CR
+5440,14-Jan-2025,"counter #3, tr1440",400,CR
+5441,05-Jan-2025,"counter #1, tr1441",500,CR
+5442,30-Jan-2025,"counter #4, tr1442,1443",200,CR
+5443,10-Jan-2025,counter #3,300,CR
+5444,03-Jan-2025,counter #5,200,CR
+5445,06-Jan-2025,counter #4,200,CR
+5446,13-Jan-2025,"counter #4, tr1446,1447",-100,DR
+5447,01-Jan-2025,counter #3,500,CR
+5448,11-Jan-2025,"counter #3, tr1448,1449",-200,DR
+5449,05-Jan-2025,"counter #5, tr1449",-400,DR
+5450,04-Jan-2025,"counter #3, tr1450",-200,DR
+5451,23-Jan-2025,"counter #2, tr1451,1452",-50,DR
+5452,19-Jan-2025,"counter #2, tr1452,1453",-100,DR
+5453,17-Jan-2025,"counter #3, tr1453",-100,DR
+5454,06-Jan-2025,counter #2,-400,DR
+5455,01-Jan-2025,"counter #3, tr1455",400,CR
+5456,09-Jan-2025,"counter #3, tr1456",300,CR
+5457,12-Jan-2025,"counter #2, tr1457",100,CR
+5458,06-Jan-2025,"counter #4, tr1458",-500,DR
+5459,21-Jan-2025,"counter #3, tr1459",300,CR
+5460,05-Jan-2025,"counter #4, tr1460,1461",-100,DR
+5461,20-Jan-2025,"counter #3, tr1461,1462",-200,DR
+5462,26-Jan-2025,"counter #2, tr1462",200,CR
+5463,17-Jan-2025,"counter #3, tr1463",100,CR
+5464,18-Jan-2025,"counter #5, tr1464",200,CR
+5465,28-Jan-2025,"counter #5, tr1465",400,CR
+5466,23-Jan-2025,"counter #5, tr1466,1467",200,CR
+5467,15-Jan-2025,"counter #1, tr1467",400,CR
+5468,15-Jan-2025,"counter #5, tr1468",-100,DR
+5469,10-Jan-2025,"counter #1, tr1469,1470",-200,DR
+5470,24-Jan-2025,"counter #2, tr1470",500,CR
+5471,12-Jan-2025,counter #1,500,CR
+5472,03-Jan-2025,"counter #4, tr1472",-100,DR
+5473,25-Jan-2025,counter #2,-400,DR
+5474,13-Jan-2025,"counter #4, tr1474",-400,DR
+5475,31-Jan-2025,"counter #5, tr1475",-200,DR
+5476,18-Jan-2025,"counter #4, tr1476,1477",250,CR
+5477,08-Jan-2025,"counter #1, tr1477",-100,DR
+5478,24-Jan-2025,"counter #5, tr1478,1479",-200,DR
+5479,08-Jan-2025,"counter #4, tr1479",300,CR
+5480,30-Jan-2025,"counter #1, tr1480",-100,DR
+5481,30-Jan-2025,"counter #1, tr1481",200,CR
+5482,20-Jan-2025,"counter #1, tr1482",400,CR
+5483,02-Jan-2025,"counter #4, tr1483",400,CR
+5484,25-Jan-2025,"counter #1, tr1484",-200,DR
+5485,30-Jan-2025,"counter #5, tr1485",-300,DR
+5486,29-Jan-2025,"counter #2, tr1486",500,CR
+5487,09-Jan-2025,"counter #1, tr1487",500,CR
+5488,14-Jan-2025,counter #5,400,CR
+5489,31-Jan-2025,"counter #4, tr1489",-500,DR
+5490,14-Jan-2025,"counter #2, tr1490",-300,DR
+5491,18-Jan-2025,"counter #4, tr1491",200,CR
+5492,23-Jan-2025,"counter #2, tr1492",400,CR
+5493,31-Jan-2025,"counter #4, tr1493",500,CR
+5494,09-Jan-2025,counter #2,300,CR
+5495,28-Jan-2025,"counter #3, tr1495",100,CR
+5496,13-Jan-2025,"counter #5, tr1496,1497",250,CR
+5497,07-Jan-2025,"counter #5, tr1497",500,CR
+5498,28-Jan-2025,"counter #3, tr1498",300,CR
+5499,07-Jan-2025,"counter #1, tr1499",400,CR
+5500,23-Jan-2025,"counter #2, tr1500",400,CR
+5501,25-Jan-2025,"counter #3, tr1501",-400,DR
+5502,12-Jan-2025,"counter #3, tr1502",-300,DR
+5503,16-Jan-2025,"counter #4, tr1503,1504",-50,DR
+5504,11-Jan-2025,"counter #2, tr1504",-300,DR
+5505,19-Jan-2025,"counter #2, tr1505",200,CR
+5506,30-Jan-2025,"counter #5, tr1506",-500,DR
+5507,07-Jan-2025,"counter #3, tr1507",-200,DR
+5508,08-Jan-2025,"counter #4, tr1508",-500,DR
+5509,27-Jan-2025,"counter #4, tr1509",-400,DR
+5510,26-Jan-2025,"counter #3, tr1510,1511",100,CR
+5511,16-Jan-2025,"counter #2, tr1511",500,CR
+5512,27-Jan-2025,"counter #1, tr1512",100,CR
+5513,27-Jan-2025,"counter #2, tr1513",100,CR
+5514,17-Jan-2025,"counter #4, tr1514",300,CR
+5515,22-Jan-2025,"counter #5, tr1515",-400,DR
+5516,18-Jan-2025,"counter #5, tr1516",400,CR
+5517,24-Jan-2025,"counter #3, tr1517",-500,DR
+5518,27-Jan-2025,counter #4,200,CR
+5519,17-Jan-2025,"counter #2, tr1519",200,CR
+5520,09-Jan-2025,"counter #3, tr1520",-300,DR
+5521,31-Jan-2025,counter #4,400,CR
+5522,08-Jan-2025,"counter #3, tr1522",100,CR
+5523,13-Jan-2025,"counter #4, tr1523",-500,DR
+5524,01-Jan-2025,"counter #2, tr1524,1525",-50,DR
+5525,21-Jan-2025,"counter #3, tr1525,1526",250,CR
+5526,30-Jan-2025,counter #1,200,CR
+5527,23-Jan-2025,"counter #5, tr1527",-400,DR
+5528,03-Jan-2025,"counter #3, tr1528",500,CR
+5529,28-Jan-2025,"counter #3, tr1529",100,CR
+5530,25-Jan-2025,"counter #4, tr1530",-100,DR
+5531,08-Jan-2025,"counter #5, tr1531",-400,DR
+5532,24-Jan-2025,"counter #2, tr1532",-100,DR
+5533,14-Jan-2025,"counter #2, tr1533",-100,DR
+5534,20-Jan-2025,"counter #5, tr1534",-400,DR
+5535,09-Jan-2025,"counter #4, tr1535",400,CR
+5536,31-Jan-2025,"counter #4, tr1536",400,CR
+5537,22-Jan-2025,"counter #4, tr1537,1538",-50,DR
+5538,23-Jan-2025,"counter #1, tr1538",-100,DR
+5539,23-Jan-2025,"counter #2, tr1539",-400,DR
+5540,03-Jan-2025,"counter #1, tr1540",-300,DR
+5541,09-Jan-2025,"counter #1, tr1541",200,CR
+5542,15-Jan-2025,"counter #5, tr1542",-500,DR
+5543,03-Jan-2025,"counter #3, tr1543",500,CR
+5544,26-Jan-2025,"counter #3, tr1544",400,CR
+5545,13-Jan-2025,"counter #1, tr1545",500,CR
+5546,06-Jan-2025,"counter #4, tr1546",200,CR
+5547,09-Jan-2025,"counter #4, tr1547",200,CR
+5548,09-Jan-2025,"counter #4, tr1548,1549",-150,DR
+5549,12-Jan-2025,"counter #3, tr1549",-200,DR
+5550,07-Jan-2025,"counter #4, tr1550",100,CR
+5551,31-Jan-2025,"counter #4, tr1551,1552",-150,DR
+5552,11-Jan-2025,"counter #4, tr1552,1553",-150,DR
+5553,28-Jan-2025,"counter #5, tr1553",-200,DR
+5554,31-Jan-2025,"counter #2, tr1554",-400,DR
+5555,13-Jan-2025,counter #3,-300,DR
+5556,26-Jan-2025,"counter #2, tr1556",-300,DR
+5557,26-Jan-2025,counter #4,300,CR
+5558,07-Jan-2025,"counter #5, tr1558",500,CR
+5559,18-Jan-2025,"counter #1, tr1559",400,CR
+5560,10-Jan-2025,"counter #1, tr1560",-400,DR
+5561,10-Jan-2025,"counter #2, tr1561,1562",150,CR
+5562,26-Jan-2025,counter #4,-100,DR
+5563,16-Jan-2025,"counter #5, tr1563",-400,DR
+5564,26-Jan-2025,"counter #3, tr1564",500,CR
+5565,08-Jan-2025,"counter #3, tr1565",200,CR
+5566,21-Jan-2025,"counter #4, tr1566",-300,DR
+5567,04-Jan-2025,"counter #3, tr1567",200,CR
+5568,13-Jan-2025,"counter #4, tr1568",500,CR
+5569,01-Jan-2025,"counter #4, tr1569",-100,DR
+5570,31-Jan-2025,"counter #1, tr1570",100,CR
+5571,11-Jan-2025,"counter #4, tr1571",-200,DR
+5572,04-Jan-2025,"counter #4, tr1572",-400,DR
+5573,02-Jan-2025,"counter #1, tr1573",-100,DR
+5574,22-Jan-2025,"counter #2, tr1574",200,CR
+5575,11-Jan-2025,"counter #5, tr1575",-400,DR
+5576,13-Jan-2025,"counter #2, tr1576",-200,DR
+5577,24-Jan-2025,"counter #5, tr1577",-200,DR
+5578,13-Jan-2025,"counter #1, tr1578",200,CR
+5579,23-Jan-2025,"counter #1, tr1579,1580",250,CR
+5580,18-Jan-2025,"counter #2, tr1580",-300,DR
+5581,04-Jan-2025,"counter #3, tr1581",-400,DR
+5582,20-Jan-2025,"counter #4, tr1582",500,CR
+5583,28-Jan-2025,"counter #4, tr1583,1584",250,CR
+5584,23-Jan-2025,"counter #3, tr1584",500,CR
+5585,11-Jan-2025,"counter #1, tr1585",-200,DR
+5586,12-Jan-2025,"counter #2, tr1586",-500,DR
+5587,05-Jan-2025,"counter #5, tr1587",-400,DR
+5588,21-Jan-2025,"counter #5, tr1588",200,CR
+5589,05-Jan-2025,"counter #2, tr1589",-300,DR
+5590,28-Jan-2025,"counter #3, tr1590",-100,DR
+5591,27-Jan-2025,"counter #4, tr1591",-500,DR
+5592,16-Jan-2025,"counter #4, tr1592",-400,DR
+5593,19-Jan-2025,"counter #1, tr1593",-200,DR
+5594,08-Jan-2025,"counter #5, tr1594,1595",150,CR
+5595,19-Jan-2025,"counter #4, tr1595",500,CR
+5596,09-Jan-2025,"counter #5, tr1596,1597",150,CR
+5597,15-Jan-2025,"counter #5, tr1597",-200,DR
+5598,27-Jan-2025,"counter #2, tr1598",300,CR
+5599,12-Jan-2025,"counter #1, tr1599,1600",200,CR
+5600,08-Jan-2025,"counter #2, tr1600,1601",-250,DR
+5601,20-Jan-2025,"counter #4, tr1601,1602",100,CR
+5602,27-Jan-2025,"counter #2, tr1602",-100,DR
+5603,20-Jan-2025,counter #5,-200,DR
+5604,10-Jan-2025,counter #3,-500,DR
+5605,17-Jan-2025,counter #1,-200,DR
+5606,09-Jan-2025,"counter #2, tr1606",200,CR
+5607,11-Jan-2025,"counter #2, tr1607",-400,DR
+5608,21-Jan-2025,"counter #3, tr1608",-400,DR
+5609,21-Jan-2025,"counter #1, tr1609",-400,DR
+5610,29-Jan-2025,"counter #3, tr1610",-400,DR
+5611,01-Jan-2025,"counter #1, tr1611,1612",-200,DR
+5612,26-Jan-2025,counter #5,400,CR
+5613,27-Jan-2025,"counter #2, tr1613",-400,DR
+5614,10-Jan-2025,"counter #3, tr1614",500,CR
+5615,16-Jan-2025,"counter #3, tr1615",100,CR
+5616,26-Jan-2025,counter #4,100,CR
+5617,06-Jan-2025,counter #4,400,CR
+5618,14-Jan-2025,"counter #2, tr1618",-200,DR
+5619,30-Jan-2025,"counter #3, tr1619",-100,DR
+5620,12-Jan-2025,"counter #2, tr1620",-100,DR
+5621,24-Jan-2025,"counter #2, tr1621,1622",200,CR
+5622,01-Jan-2025,"counter #2, tr1622",400,CR
+5623,08-Jan-2025,"counter #5, tr1623",400,CR
+5624,11-Jan-2025,"counter #1, tr1624",400,CR
+5625,08-Jan-2025,"counter #4, tr1625",100,CR
+5626,12-Jan-2025,"counter #3, tr1626,1627",-100,DR
+5627,25-Jan-2025,"counter #2, tr1627",200,CR
+5628,01-Jan-2025,"counter #5, tr1628",-200,DR
+5629,07-Jan-2025,"counter #2, tr1629,1630",-200,DR
+5630,03-Jan-2025,"counter #1, tr1630",200,CR
+5631,13-Jan-2025,"counter #3, tr1631,1632",-200,DR
+5632,08-Jan-2025,"counter #3, tr1632",100,CR
+5633,20-Jan-2025,"counter #5, tr1633,1634",150,CR
+5634,22-Jan-2025,"counter #3, tr1634,1635",100,CR
+5635,10-Jan-2025,"counter #1, tr1635",-200,DR
+5636,08-Jan-2025,"counter #4, tr1636",500,CR
+5637,01-Jan-2025,"counter #3, tr1637",300,CR
+5638,27-Jan-2025,"counter #5, tr1638",-400,DR
+5639,06-Jan-2025,"counter #4, tr1639",100,CR
+5640,01-Jan-2025,counter #3,200,CR
+5641,31-Jan-2025,"counter #4, tr1641",-500,DR
+5642,17-Jan-2025,"counter #4, tr1642",-400,DR
+5643,18-Jan-2025,"counter #5, tr1643",500,CR
+5644,10-Jan-2025,counter #1,500,CR
+5645,05-Jan-2025,"counter #5, tr1645",-300,DR
+5646,25-Jan-2025,"counter #1, tr1646,1647",-150,DR
+5647,28-Jan-2025,"counter #2, tr1647",100,CR
+5648,14-Jan-2025,"counter #1, tr1648",400,CR
+5649,24-Jan-2025,"counter #2, tr1649,1650",50,CR
+5650,23-Jan-2025,counter #1,-200,DR
+5651,17-Jan-2025,"counter #5, tr1651",300,CR
+5652,24-Jan-2025,"counter #3, tr1652",100,CR
+5653,14-Jan-2025,"counter #3, tr1653",500,CR
+5654,19-Jan-2025,"counter #1, tr1654",-400,DR
+5655,02-Jan-2025,"counter #4, tr1655",500,CR
+5656,09-Jan-2025,"counter #1, tr1656",500,CR
+5657,17-Jan-2025,"counter #1, tr1657",100,CR
+5658,16-Jan-2025,"counter #3, tr1658",400,CR
+5659,31-Jan-2025,"counter #1, tr1659",-500,DR
+5660,08-Jan-2025,"counter #4, tr1660,1661",-150,DR
+5661,19-Jan-2025,"counter #3, tr1661",100,CR
+5662,26-Jan-2025,"counter #5, tr1662",-100,DR
+5663,15-Jan-2025,"counter #3, tr1663",-300,DR
+5664,15-Jan-2025,"counter #1, tr1664",300,CR
+5665,26-Jan-2025,"counter #3, tr1665",500,CR
+5666,19-Jan-2025,"counter #4, tr1666",200,CR
+5667,30-Jan-2025,"counter #4, tr1667",100,CR
+5668,21-Jan-2025,"counter #1, tr1668,1669",150,CR
+5669,13-Jan-2025,"counter #3, tr1669",100,CR
+5670,08-Jan-2025,counter #4,400,CR
+5671,05-Jan-2025,counter #3,100,CR
+5672,29-Jan-2025,"counter #5, tr1672",-400,DR
+5673,24-Jan-2025,"counter #1, tr1673",500,CR
+5674,21-Jan-2025,"counter #4, tr1674",100,CR
+5675,31-Jan-2025,"counter #2, tr1675",-200,DR
+5676,11-Jan-2025,"counter #4, tr1676",-300,DR
+5677,08-Jan-2025,"counter #1, tr1677,1678",100,CR
+5678,19-Jan-2025,"counter #1, tr1678",200,CR
+5679,15-Jan-2025,"counter #3, tr1679",400,CR
+5680,31-Jan-2025,"counter #2, tr1680",-400,DR
+5681,28-Jan-2025,"counter #1, tr1681,1682",50,CR
+5682,10-Jan-2025,"counter #5, tr1682,1683",50,CR
+5683,11-Jan-2025,counter #2,100,CR
+5684,13-Jan-2025,"counter #5, tr1684",-100,DR
+5685,06-Jan-2025,"counter #1, tr1685",-400,DR
+5686,18-Jan-2025,"counter #2, tr1686",-100,DR
+5687,26-Jan-2025,"counter #2, tr1687",100,CR
+5688,25-Jan-2025,"counter #2, tr1688,1689",100,CR
+5689,12-Jan-2025,counter #1,-500,DR
+5690,03-Jan-2025,counter #1,100,CR
+5691,15-Jan-2025,"counter #2, tr1691",-100,DR
+5692,31-Jan-2025,counter #4,100,CR
+5693,14-Jan-2025,"counter #4, tr1693",400,CR
+5694,14-Jan-2025,counter #2,300,CR
+5695,09-Jan-2025,"counter #3, tr1695",400,CR
+5696,20-Jan-2025,"counter #5, tr1696",-200,DR
+5697,29-Jan-2025,"counter #5, tr1697",400,CR
+5698,13-Jan-2025,"counter #2, tr1698",400,CR
+5699,26-Jan-2025,counter #5,200,CR
+5700,26-Jan-2025,"counter #3, tr1700",-400,DR
+5701,19-Jan-2025,"counter #5, tr1701",-300,DR
+5702,01-Jan-2025,"counter #3, tr1702",500,CR
+5703,26-Jan-2025,"counter #3, tr1703",-100,DR
+5704,25-Jan-2025,"counter #5, tr1704",200,CR
+5705,22-Jan-2025,"counter #2, tr1705,1706",150,CR
+5706,31-Jan-2025,"counter #2, tr1706",-500,DR
+5707,27-Jan-2025,"counter #2, tr1707",200,CR
+5708,26-Jan-2025,"counter #3, tr1708,1709",250,CR
+5709,12-Jan-2025,"counter #5, tr1709",500,CR
+5710,07-Jan-2025,"counter #4, tr1710",-500,DR
+5711,02-Jan-2025,"counter #1, tr1711",100,CR
+5712,01-Jan-2025,"counter #5, tr1712",400,CR
+5713,20-Jan-2025,"counter #2, tr1713,1714",-100,DR
+5714,30-Jan-2025,"counter #3, tr1714",100,CR
+5715,23-Jan-2025,counter #2,-100,DR
+5716,12-Jan-2025,"counter #4, tr1716",500,CR
+5717,11-Jan-2025,"counter #2, tr1717,1718",-100,DR
+5718,31-Jan-2025,"counter #4, tr1718,1719",150,CR
+5719,18-Jan-2025,"counter #5, tr1719",300,CR
+5720,27-Jan-2025,"counter #2, tr1720,1721",-200,DR
+5721,10-Jan-2025,counter #2,200,CR
+5722,31-Jan-2025,"counter #5, tr1722",400,CR
+5723,11-Jan-2025,counter #5,200,CR
+5724,05-Jan-2025,"counter #3, tr1724",100,CR
+5725,11-Jan-2025,"counter #2, tr1725",-100,DR
+5726,09-Jan-2025,"counter #2, tr1726",200,CR
+5727,26-Jan-2025,"counter #1, tr1727",100,CR
+5728,24-Jan-2025,"counter #4, tr1728",-200,DR
+5729,13-Jan-2025,"counter #3, tr1729",-500,DR
+5730,16-Jan-2025,"counter #5, tr1730",200,CR
+5731,26-Jan-2025,"counter #1, tr1731",300,CR
+5732,31-Jan-2025,"counter #1, tr1732",-100,DR
+5733,13-Jan-2025,"counter #2, tr1733",100,CR
+5734,20-Jan-2025,counter #4,-100,DR
+5735,06-Jan-2025,"counter #5, tr1735",400,CR
+5736,11-Jan-2025,"counter #2, tr1736",-200,DR
+5737,24-Jan-2025,"counter #5, tr1737",-300,DR
+5738,04-Jan-2025,"counter #1, tr1738",-400,DR
+5739,12-Jan-2025,"counter #1, tr1739",400,CR
+5740,22-Jan-2025,"counter #5, tr1740",400,CR
+5741,07-Jan-2025,"counter #2, tr1741",300,CR
+5742,04-Jan-2025,"counter #3, tr1742",-400,DR
+5743,22-Jan-2025,"counter #3, tr1743",-100,DR
+5744,29-Jan-2025,"counter #4, tr1744",300,CR
+5745,09-Jan-2025,"counter #4, tr1745",-400,DR
+5746,09-Jan-2025,"counter #5, tr1746,1747",50,CR
+5747,22-Jan-2025,"counter #1, tr1747,1748",-50,DR
+5748,14-Jan-2025,"counter #5, tr1748,1749",100,CR
+5749,27-Jan-2025,"counter #5, tr1749",-400,DR
+5750,08-Jan-2025,"counter #4, tr1750",300,CR
+5751,28-Jan-2025,"counter #1, tr1751",500,CR
+5752,25-Jan-2025,counter #4,200,CR
+5753,26-Jan-2025,"counter #2, tr1753",200,CR
+5754,22-Jan-2025,"counter #4, tr1754,1755",100,CR
+5755,09-Jan-2025,"counter #3, tr1755",100,CR
+5756,13-Jan-2025,"counter #5, tr1756",-300,DR
+5757,30-Jan-2025,"counter #1, tr1757",-500,DR
+5758,05-Jan-2025,counter #2,500,CR
+5759,19-Jan-2025,"counter #1, tr1759,1760",-150,DR
+5760,09-Jan-2025,"counter #4, tr1760",-400,DR
+5761,09-Jan-2025,"counter #4, tr1761",-200,DR
+5762,29-Jan-2025,"counter #3, tr1762,1763",100,CR
+5763,30-Jan-2025,"counter #3, tr1763",300,CR
+5764,26-Jan-2025,"counter #3, tr1764,1765",-150,DR
+5765,28-Jan-2025,"counter #1, tr1765",200,CR
+5766,24-Jan-2025,"counter #4, tr1766,1767",-150,DR
+5767,20-Jan-2025,"counter #1, tr1767",-200,DR
+5768,27-Jan-2025,"counter #4, tr1768,1769",-200,DR
+5769,17-Jan-2025,"counter #2, tr1769,1770",-50,DR
+5770,13-Jan-2025,"counter #2, tr1770",500,CR
+5771,29-Jan-2025,"counter #2, tr1771",100,CR
+5772,02-Jan-2025,"counter #3, tr1772",-200,DR
+5773,15-Jan-2025,"counter #5, tr1773",400,CR
+5774,08-Jan-2025,"counter #3, tr1774",-400,DR
+5775,28-Jan-2025,"counter #4, tr1775",-500,DR
+5776,27-Jan-2025,"counter #3, tr1776",-100,DR
+5777,02-Jan-2025,"counter #2, tr1777,1778",250,CR
+5778,21-Jan-2025,"counter #2, tr1778",-200,DR
+5779,17-Jan-2025,counter #1,-100,DR
+5780,21-Jan-2025,"counter #2, tr1780",500,CR
+5781,20-Jan-2025,"counter #3, tr1781,1782",-150,DR
+5782,28-Jan-2025,"counter #3, tr1782",-400,DR
+5783,10-Jan-2025,"counter #5, tr1783",-500,DR
+5784,01-Jan-2025,"counter #5, tr1784",-300,DR
+5785,04-Jan-2025,counter #4,-100,DR
+5786,21-Jan-2025,"counter #3, tr1786",-300,DR
+5787,31-Jan-2025,"counter #3, tr1787",200,CR
+5788,08-Jan-2025,"counter #1, tr1788",-500,DR
+5789,22-Jan-2025,counter #2,-100,DR
+5790,09-Jan-2025,"counter #4, tr1790,1791",-200,DR
+5791,19-Jan-2025,"counter #5, tr1791,1792",-100,DR
+5792,08-Jan-2025,"counter #5, tr1792",-400,DR
+5793,28-Jan-2025,"counter #2, tr1793",500,CR
+5794,16-Jan-2025,counter #2,300,CR
+5795,29-Jan-2025,"counter #3, tr1795",100,CR
+5796,24-Jan-2025,"counter #3, tr1796",-400,DR
+5797,19-Jan-2025,"counter #3, tr1797",400,CR
+5798,28-Jan-2025,"counter #5, tr1798",500,CR
+5799,07-Jan-2025,"counter #5, tr1799",-100,DR
+5800,14-Jan-2025,counter #1,200,CR
+5801,11-Jan-2025,"counter #4, tr1801",-500,DR
+5802,28-Jan-2025,"counter #2, tr1802",-100,DR
+5803,06-Jan-2025,"counter #3, tr1803",100,CR
+5804,07-Jan-2025,"counter #2, tr1804",500,CR
+5805,25-Jan-2025,"counter #1, tr1805",-200,DR
+5806,13-Jan-2025,"counter #4, tr1806",-400,DR
+5807,18-Jan-2025,"counter #2, tr1807,1808",150,CR
+5808,25-Jan-2025,"counter #5, tr1808",200,CR
+5809,21-Jan-2025,"counter #2, tr1809",-200,DR
+5810,04-Jan-2025,"counter #4, tr1810",-500,DR
+5811,27-Jan-2025,"counter #1, tr1811",-300,DR
+5812,17-Jan-2025,"counter #5, tr1812",-500,DR
+5813,22-Jan-2025,"counter #2, tr1813",-300,DR
+5814,07-Jan-2025,"counter #2, tr1814",400,CR
+5815,24-Jan-2025,"counter #2, tr1815",200,CR
+5816,06-Jan-2025,"counter #1, tr1816",300,CR
+5817,21-Jan-2025,"counter #3, tr1817",500,CR
+5818,02-Jan-2025,"counter #1, tr1818",100,CR
+5819,14-Jan-2025,"counter #4, tr1819",400,CR
+5820,16-Jan-2025,"counter #2, tr1820",200,CR
+5821,22-Jan-2025,"counter #1, tr1821",-500,DR
+5822,23-Jan-2025,"counter #2, tr1822",400,CR
+5823,20-Jan-2025,"counter #1, tr1823,1824",150,CR
+5824,16-Jan-2025,"counter #2, tr1824,1825",250,CR
+5825,27-Jan-2025,"counter #5, tr1825,1826",-100,DR
+5826,10-Jan-2025,counter #2,-100,DR
+5827,23-Jan-2025,"counter #4, tr1827",300,CR
+5828,22-Jan-2025,"counter #1, tr1828",-100,DR
+5829,03-Jan-2025,counter #5,100,CR
+5830,21-Jan-2025,"counter #2, tr1830",-400,DR
+5831,02-Jan-2025,"counter #1, tr1831,1832",100,CR
+5832,12-Jan-2025,"counter #3, tr1832",400,CR
+5833,25-Jan-2025,"counter #1, tr1833",100,CR
+5834,06-Jan-2025,counter #3,-300,DR
+5835,09-Jan-2025,"counter #1, tr1835",-300,DR
+5836,13-Jan-2025,"counter #4, tr1836,1837",-200,DR
+5837,23-Jan-2025,"counter #4, tr1837",400,CR
+5838,23-Jan-2025,"counter #1, tr1838",200,CR
+5839,19-Jan-2025,"counter #4, tr1839",-500,DR
+5840,13-Jan-2025,"counter #3, tr1840,1841",250,CR
+5841,29-Jan-2025,"counter #2, tr1841",-400,DR
+5842,14-Jan-2025,"counter #4, tr1842",100,CR
+5843,11-Jan-2025,counter #1,500,CR
+5844,22-Jan-2025,"counter #3, tr1844",500,CR
+5845,24-Jan-2025,"counter #2, tr1845",-400,DR
+5846,21-Jan-2025,"counter #4, tr1846",200,CR
+5847,30-Jan-2025,"counter #2, tr1847,1848",-250,DR
+5848,28-Jan-2025,"counter #2, tr1848",-100,DR
+5849,11-Jan-2025,"counter #3, tr1849",100,CR
+5850,13-Jan-2025,"counter #4, tr1850",200,CR
+5851,26-Jan-2025,"counter #5, tr1851,1852",200,CR
+5852,15-Jan-2025,"counter #3, tr1852,1853",-50,DR
+5853,01-Jan-2025,"counter #1, tr1853",-400,DR
+5854,18-Jan-2025,"counter #1, tr1854,1855",-50,DR
+5855,18-Jan-2025,"counter #2, tr1855",-400,DR
+5856,02-Jan-2025,"counter #2, tr1856",-400,DR
+5857,20-Jan-2025,"counter #5, tr1857,1858",-200,DR
+5858,04-Jan-2025,"counter #1, tr1858",200,CR
+5859,27-Jan-2025,"counter #3, tr1859,1860",-250,DR
+5860,02-Jan-2025,"counter #2, tr1860,1861",200,CR
+5861,24-Jan-2025,"counter #4, tr1861",-100,DR
+5862,07-Jan-2025,"counter #1, tr1862",400,CR
+5863,26-Jan-2025,"counter #2, tr1863,1864",150,CR
+5864,02-Jan-2025,"counter #5, tr1864",-100,DR
+5865,19-Jan-2025,"counter #5, tr1865",-200,DR
+5866,24-Jan-2025,"counter #1, tr1866,1867",-250,DR
+5867,16-Jan-2025,"counter #5, tr1867,1868",100,CR
+5868,05-Jan-2025,"counter #1, tr1868",-400,DR
+5869,13-Jan-2025,"counter #4, tr1869",500,CR
+5870,31-Jan-2025,"counter #3, tr1870,1871",-150,DR
+5871,05-Jan-2025,"counter #4, tr1871,1872",-250,DR
+5872,18-Jan-2025,"counter #3, tr1872",500,CR
+5873,20-Jan-2025,counter #3,300,CR
+5874,21-Jan-2025,"counter #2, tr1874,1875",-250,DR
+5875,25-Jan-2025,"counter #3, tr1875",-500,DR
+5876,31-Jan-2025,"counter #4, tr1876,1877",-250,DR
+5877,14-Jan-2025,"counter #1, tr1877",500,CR
+5878,05-Jan-2025,"counter #1, tr1878",100,CR
+5879,26-Jan-2025,"counter #2, tr1879",-300,DR
+5880,02-Jan-2025,"counter #3, tr1880",200,CR
+5881,15-Jan-2025,"counter #1, tr1881,1882",250,CR
+5882,18-Jan-2025,"counter #4, tr1882",-200,DR
+5883,02-Jan-2025,counter #4,-400,DR
+5884,22-Jan-2025,"counter #3, tr1884",500,CR
+5885,09-Jan-2025,"counter #2, tr1885,1886",-250,DR
+5886,30-Jan-2025,"counter #3, tr1886,1887",250,CR
+5887,31-Jan-2025,"counter #2, tr1887",-300,DR
+5888,22-Jan-2025,"counter #1, tr1888,1889",100,CR
+5889,04-Jan-2025,"counter #4, tr1889",-100,DR
+5890,09-Jan-2025,"counter #2, tr1890",-200,DR
+5891,15-Jan-2025,counter #2,100,CR
+5892,20-Jan-2025,"counter #1, tr1892",-500,DR
+5893,19-Jan-2025,"counter #5, tr1893,1894",150,CR
+5894,11-Jan-2025,"counter #5, tr1894",200,CR
+5895,26-Jan-2025,"counter #5, tr1895",-200,DR
+5896,13-Jan-2025,"counter #1, tr1896,1897",150,CR
+5897,22-Jan-2025,"counter #3, tr1897",-300,DR
+5898,31-Jan-2025,counter #5,-500,DR
+5899,27-Jan-2025,"counter #1, tr1899",-100,DR
+5900,29-Jan-2025,counter #5,500,CR
+5901,22-Jan-2025,"counter #3, tr1901",400,CR
+5902,18-Jan-2025,"counter #3, tr1902",-100,DR
+5903,17-Jan-2025,"counter #4, tr1903",400,CR
+5904,21-Jan-2025,counter #2,300,CR
+5905,06-Jan-2025,"counter #5, tr1905",500,CR
+5906,07-Jan-2025,"counter #2, tr1906",400,CR
+5907,27-Jan-2025,"counter #4, tr1907",100,CR
+5908,23-Jan-2025,"counter #3, tr1908",100,CR
+5909,06-Jan-2025,"counter #3, tr1909",500,CR
+5910,08-Jan-2025,"counter #3, tr1910",-400,DR
+5911,13-Jan-2025,"counter #4, tr1911",300,CR
+5912,04-Jan-2025,"counter #5, tr1912,1913",50,CR
+5913,19-Jan-2025,counter #1,-100,DR
+5914,04-Jan-2025,"counter #3, tr1914",300,CR
+5915,30-Jan-2025,"counter #4, tr1915,1916",-200,DR
+5916,01-Jan-2025,"counter #4, tr1916",200,CR
+5917,13-Jan-2025,"counter #5, tr1917",300,CR
+5918,29-Jan-2025,"counter #3, tr1918",100,CR
+5919,01-Jan-2025,"counter #5, tr1919",-500,DR
+5920,31-Jan-2025,"counter #1, tr1920,1921",150,CR
+5921,29-Jan-2025,counter #3,-200,DR
+5922,28-Jan-2025,"counter #5, tr1922",200,CR
+5923,20-Jan-2025,"counter #3, tr1923",200,CR
+5924,26-Jan-2025,"counter #5, tr1924",-100,DR
+5925,03-Jan-2025,"counter #3, tr1925",-100,DR
+5926,24-Jan-2025,"counter #5, tr1926",-400,DR
+5927,22-Jan-2025,"counter #2, tr1927",-100,DR
+5928,29-Jan-2025,"counter #2, tr1928",-300,DR
+5929,20-Jan-2025,"counter #3, tr1929",500,CR
+5930,12-Jan-2025,"counter #3, tr1930",400,CR
+5931,08-Jan-2025,"counter #2, tr1931,1932",-200,DR
+5932,05-Jan-2025,"counter #3, tr1932",-400,DR
+5933,25-Jan-2025,"counter #3, tr1933",400,CR
+5934,20-Jan-2025,"counter #1, tr1934,1935",150,CR
+5935,07-Jan-2025,"counter #3, tr1935,1936",50,CR
+5936,28-Jan-2025,"counter #5, tr1936,1937",-50,DR
+5937,07-Jan-2025,"counter #1, tr1937",-500,DR
+5938,18-Jan-2025,"counter #4, tr1938",-200,DR
+5939,29-Jan-2025,"counter #5, tr1939",300,CR
+5940,17-Jan-2025,"counter #1, tr1940",-400,DR
+5941,22-Jan-2025,"counter #2, tr1941,1942",250,CR
+5942,05-Jan-2025,"counter #4, tr1942",200,CR
+5943,19-Jan-2025,"counter #2, tr1943",-400,DR
+5944,25-Jan-2025,"counter #4, tr1944",200,CR
+5945,08-Jan-2025,"counter #1, tr1945",-200,DR
+5946,30-Jan-2025,counter #4,100,CR
+5947,11-Jan-2025,"counter #1, tr1947,1948",-250,DR
+5948,09-Jan-2025,"counter #5, tr1948",500,CR
+5949,13-Jan-2025,"counter #3, tr1949",500,CR
+5950,13-Jan-2025,"counter #2, tr1950",-500,DR
+5951,28-Jan-2025,"counter #3, tr1951,1952",-200,DR
+5952,01-Jan-2025,"counter #5, tr1952",-200,DR
+5953,03-Jan-2025,"counter #5, tr1953",300,CR
+5954,06-Jan-2025,"counter #3, tr1954",500,CR
+5955,14-Jan-2025,"counter #3, tr1955",-100,DR
+5956,16-Jan-2025,"counter #2, tr1956",500,CR
+5957,14-Jan-2025,"counter #1, tr1957",200,CR
+5958,19-Jan-2025,"counter #2, tr1958,1959",100,CR
+5959,05-Jan-2025,counter #1,-200,DR
+5960,17-Jan-2025,"counter #4, tr1960,1961",250,CR
+5961,24-Jan-2025,"counter #3, tr1961",100,CR
+5962,16-Jan-2025,"counter #4, tr1962,1963",100,CR
+5963,20-Jan-2025,"counter #2, tr1963",500,CR
+5964,17-Jan-2025,counter #3,-200,DR
+5965,20-Jan-2025,"counter #5, tr1965",100,CR
+5966,05-Jan-2025,"counter #1, tr1966",100,CR
+5967,30-Jan-2025,"counter #5, tr1967",400,CR
+5968,06-Jan-2025,"counter #4, tr1968,1969",250,CR
+5969,18-Jan-2025,"counter #5, tr1969",100,CR
+5970,05-Jan-2025,"counter #5, tr1970,1971",250,CR
+5971,25-Jan-2025,"counter #4, tr1971",-500,DR
+5972,02-Jan-2025,counter #5,400,CR
+5973,16-Jan-2025,"counter #4, tr1973",300,CR
+5974,09-Jan-2025,"counter #4, tr1974",200,CR
+5975,29-Jan-2025,"counter #5, tr1975",-400,DR
+5976,23-Jan-2025,"counter #1, tr1976",500,CR
+5977,13-Jan-2025,"counter #2, tr1977",-300,DR
+5978,05-Jan-2025,"counter #4, tr1978",-500,DR
+5979,18-Jan-2025,"counter #4, tr1979",-500,DR
+5980,22-Jan-2025,"counter #4, tr1980",-200,DR
+5981,18-Jan-2025,"counter #4, tr1981",-200,DR
+5982,16-Jan-2025,"counter #3, tr1982,1983",-150,DR
+5983,13-Jan-2025,"counter #2, tr1983",100,CR
+5984,23-Jan-2025,"counter #2, tr1984",100,CR
+5985,26-Jan-2025,"counter #3, tr1985",500,CR
+5986,31-Jan-2025,"counter #1, tr1986",100,CR
+5987,20-Jan-2025,"counter #4, tr1987",100,CR
+5988,12-Jan-2025,"counter #1, tr1988,1989",250,CR
+5989,30-Jan-2025,"counter #4, tr1989,1990",-250,DR
+5990,20-Jan-2025,"counter #1, tr1990",-200,DR
+5991,07-Jan-2025,"counter #5, tr1991",300,CR
+5992,20-Jan-2025,"counter #5, tr1992",500,CR
+5993,22-Jan-2025,"counter #1, tr1993",300,CR
+5994,06-Jan-2025,"counter #1, tr1994",-300,DR
+5995,13-Jan-2025,"counter #4, tr1995",500,CR
+5996,24-Jan-2025,"counter #1, tr1996,1997",-50,DR
+5997,18-Jan-2025,counter #5,-300,DR
+5998,09-Jan-2025,"counter #2, tr1998",500,CR
+5999,13-Jan-2025,"counter #5, tr1999",-100,DR
