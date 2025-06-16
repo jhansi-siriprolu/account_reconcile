@@ -1,0 +1,5 @@
+ledger_id,date,description,amount,transaction_type
+2001,2024-06-01,Counter 1,500,debit
+2002,2024-06-02,Counter 2,500,debit
+2003,2024-06-03,Counter 3,700,debit
+2004,2024-06-03,,100,debit
