@@ -1,7 +1,3 @@
-# Grocers Reconciliation
-
-Automated account reconciliation using RecordLinkage with classification, evaluation, and Streamlit support.
-
 # 🧾 Grocers Reconciliation System
 
 A smart Python-based tool to **reconcile daily bank statements and ledger entries** from a grocery outlet. Detects mismatches, missing transactions, and potential fraud using rule-based logic and fuzzy matching.
